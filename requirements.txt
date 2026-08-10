@@ -12,3 +12,4 @@ jupyter>=1.0
 # opacus>=1.4           # not needed -- no differential privacy in this project
 # shap>=0.45            # not needed -- no shapley explanations here
 # tenseal>=0.3          # not needed -- no homomorphic encryption here
+flask>=3.0
