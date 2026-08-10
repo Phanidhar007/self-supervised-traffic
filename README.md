@@ -12,6 +12,12 @@ labels grow (+6.2 pts at 20%), exactly the self-supervised signature.
 
 ---
 
+## 🌐 Live demo
+
+**https://self-supervised-traffic.vercel.app** — live results dashboard: real metrics from `results/metrics.md` plus charts from `results/figures/` (AI Shield dark theme, no model executed server-side).
+
+Interactive **local** demo (Streamlit): `streamlit run demo/app.py` — see [demo/README.md](demo/README.md).
+
 ## Threat model
 
 **Problem.** Security teams rarely have enough *labeled* network data to train a

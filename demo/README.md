@@ -1,7 +1,7 @@
-# Local demo -- AI Shield (Streamlit)
+# Self-Supervised Traffic — Demo (AI Shield)
 
-Self-contained local Streamlit app (not deployed) showing the *measured*
-property of the pipeline in the AI Shield dark theme.
+A **live results dashboard** is deployed at https://self-supervised-traffic.vercel.app (real metrics + figures, AI Shield theme). This Streamlit app is the full local version, showing the *measured*
+properties of the pipeline in the AI Shield dark theme.
 
 ## Run
 
@@ -23,3 +23,8 @@ streamlit run demo/app.py
 
 Everything is read from `results/figures/*.png` and `results/summary.json`
 produced by the real run, so the demo always reflects the measured numbers.
+
+
+## 🌐 Live demo
+
+https://self-supervised-traffic.vercel.app — real metrics + figures dashboard (AI Shield theme).

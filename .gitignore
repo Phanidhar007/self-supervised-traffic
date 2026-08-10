@@ -25,3 +25,5 @@ Thumbs.db
 
 # results/metrics.md and results/figures/* are committed on purpose (they are
 # the measured outputs of the pipeline).
+
+.vercel
